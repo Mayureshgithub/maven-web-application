@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://44.192.254.97:8888/mac/repository/project-repo/</url>
+	      <url>http://107.20.53.93:8081/repository/java-war/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.192.254.97:8888/mac/repository/project-snapshot/</url>
+	      <url>http://107.20.53.93:8081/repository/java-war/project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
